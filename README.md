@@ -1,1 +1,1 @@
-# Ensemble Learning Based on Stacking and Blending algorithm: Here you can find the original data set we used for the experiment and the optimized model python code.
+# Ensemble Learning Based on Stacking and Blending algorithm: Here you can find the original data set we used for the experiment and the python code of Ensemble Learning Based on Stacking and Blending Predicts Glass Forming Ability.
